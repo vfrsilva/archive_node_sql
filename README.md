@@ -20,7 +20,7 @@ This repository contains a collection of SQL queries designed to interact with t
 ## Usage
 
 1. **Clone the repository:**
-   ```sh
+```sh
    git clone https://github.com/vfrsilva/archive_node_sql.git
    cd archive_node_sql
 ```
